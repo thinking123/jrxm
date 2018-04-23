@@ -16,6 +16,7 @@
     }
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
+    @import '~@assets/sass/var.scss';
 
 </style>
